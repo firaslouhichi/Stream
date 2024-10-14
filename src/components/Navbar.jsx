@@ -17,7 +17,7 @@ const Navbar = () => {
           <a href="#pricing" className="hover:text-neutral-200">
             Pricing
           </a>
-          <a href="#testimonials" className="hover:text-neutral-200">
+          <a href="#testimonial" className="hover:text-neutral-200">
             Testimonials
           </a>
         </div>
